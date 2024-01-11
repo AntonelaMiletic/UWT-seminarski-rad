@@ -1,0 +1,866 @@
+p {
+    font-family: "Indie Flower";
+}
+h1 {
+    font-family: "Secular One";
+}
+h2 {
+    font-family: "Secular One";
+}
+i {
+    color: mediumturquoise;
+}
+body {
+    width: 100%;
+    margin-right: 0%;
+    margin: 0 auto;
+}
+.pattern {
+    background-image: url("slike/pattern1.png");
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+.linkovi a {
+    margin-right: 2%;
+    color: black;
+    text-decoration: none;
+    font-family: "Indie Flower";
+}
+.zaglavlje ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    width: 100%;
+}
+.naslov {
+    clear: both;
+    font-size: 500%;
+    font-family: "Secular One";
+    margin-top: 15%;
+    padding: 0.01%;
+    text-align: center;
+}
+.logo {
+    float: left;
+    padding: 2%;
+}
+.zaglavlje {
+    width: 75%;
+    float: right;
+    margin-top: 7%;
+    margin-right: 2%;
+}
+.linkovi {
+    clear: both;
+    margin-top: 10%;
+    font-size: larger;
+}
+.sup {
+    font-size: 50%;
+}
+.slika1 {
+    width: 47%;
+    float: left;
+}
+.opis {
+    width: 65%;
+    color: grey;
+}
+.tko {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 44%;
+    background-color: black;
+    font-size: large;
+    float: right;
+    padding: 3% 4% 3% 5%;
+    margin-bottom: 5%;
+}
+.footer1 {
+    position: absolute;
+    width: 100%;
+    top: 4000px;
+    height: 10%;
+    bottom: 0px;
+    background-image: url("slike/pattern1.png");
+    font-family: "Indie Flower";
+}
+.footer2 {
+    position: absolute;
+    width: 100%;
+    top: 2000px;
+    height: 10%;
+    bottom: 0px;
+    background-image: url("slike/pattern1.png");
+    font-family: "Indie Flower";
+}
+.podnozje {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    background-image: url("slike/pattern1.png");
+}
+.arrow {
+    float: left;
+    margin-bottom: 12%;
+    margin-left: 2%;
+}
+.hh {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 44%;
+    background-color: black;
+    font-size: large;
+    float: left;
+    padding: 3% 4% 3% 5%;
+    margin-bottom: 5%;
+}
+.slika2 {
+    width: 47%;
+    height: 40%;
+    float: right;
+}
+.slika3 {
+    clear: both;
+    width: 47%;
+    float: left;
+}
+.freestyle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 44%;
+    background-color: black;
+    font-size: large;
+    float: right;
+    padding: 3% 4% 3% 5%;
+    margin-bottom: 5%;
+}
+.dhall {
+    clear: both;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 44%;
+    background-color: black;
+    font-size: large;
+    float: left;
+    padding: 3% 4% 3% 5%;
+    margin-bottom: 5%;
+}
+.slika4 {
+    width: 47%;
+    float: left;
+}
+.slika5 {
+    width: 47%;
+    float: right;
+    margin-bottom: 7%;
+}
+.house {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 44%;
+    background-color: black;
+    font-size: large;
+    float: right;
+    padding: 3% 4% 3% 5%;
+    margin-bottom: 5%;
+}
+.arrow1 {
+    float: right;
+}
+.link {
+    font-family: "Secular One";
+    float: left;
+    text-decoration: none;
+    font-size: xx-large;
+    color: rgb(46, 125, 154);
+}
+.zaglavlje a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
+.link1 {
+    font-family: "Secular One";
+    float: left;
+    margin-left: 3%;
+    text-decoration: none;
+    font-size: xx-large;
+    color: rgb(46, 125, 154);
+}
+button {
+    font-family: "Secular One";
+    font-size: xx-large;
+    color: rgb(46, 125, 154);
+    background-color: black;
+    border: none;
+    padding: 1% 3%;
+    float: right;
+    border-radius: 100px;
+}
+table {
+    border: 1px solid rgb(46, 125, 154);
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("slike/pattern1.png");
+    font-family: "Indie Flower";
+}
+caption {
+    color: rgb(46, 125, 154);
+}
+.red1 {
+    text-align: center;
+    font-size: larger;
+    font-family: "Secular One";
+    color: rgb(83, 203, 191);
+    font-weight: bold;
+}
+.submit {
+    float: right;
+    margin-right: 3%;
+}
+.tabletext {
+    margin-left: 3%;
+}
+.obrazac1 {
+    margin-top: 25%;
+}
+.karta {
+    margin-top: -300px;
+    margin-left: 5%;
+}
+p {
+    font-size: large;
+}
+.obrazac {
+    margin: auto;
+    font-size: x-large;
+    margin-left: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form2 {
+    font-size: larger;
+    margin-top: 1%;
+    background-color: gainsboro;
+    width: 20%;
+}
+.select {
+    font-size: large;
+    padding: 1%;
+}
+.posalji {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    background-color: rgb(46, 125, 154);
+    color: white;
+    border: none;
+    padding: 1% 3%;
+    float: left;
+    margin-bottom: 5%;
+}
+.kontakt {
+    width: 290px;
+    font-size: x-large;
+    position: relative;
+    bottom: 895px;
+    left: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ab{
+    position: relative;
+    right: 135px;
+}
+.mejl {
+    color: rgb(46, 125, 154);
+}
+.anis {
+    position: absolute;
+    left: 30px;
+}
+.jelchi {
+    left: 565px;
+    position: absolute;
+}
+.luka {
+    left: 1090px;
+    position: absolute;
+}
+.treneri {
+    position: absolute;
+    width: 1000px;
+    top: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.onama {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 500px;
+    left: 545px;
+}
+.trener1 {
+    width: 400px;
+    position: absolute;
+    left: 30px;
+    top: 380px;
+}
+.trener2 {
+    width: 400px;
+    position: absolute;
+    left: 565px;
+    top: 380px;
+}
+.trener3 {
+    width: 400px;
+    position: absolute;
+    left: 1090px;
+    top: 380px;
+}
+.video {
+    position: absolute;
+    top: 1645px;
+    left: 500px;
+}
+nav {
+    position: fixed;
+    width: 300px;
+    top: 340px;
+    color: rgb(46, 125, 154);
+    background-color: black;
+}
+.container {
+    margin-top: 20%;
+}
+.container img {
+    padding-bottom: 20%;
+    width: 70%;
+}
+.container h1 {
+    padding-bottom: 5%;
+    color: rgb(39, 168, 125);
+}
+.float {
+    float: right;
+    font-size: large;
+    padding-bottom: 10%;
+}
+.banner {
+    display: flex;
+    background-image: url(slike/banner.jpeg);
+    margin-top: 18%;
+    height: 570px;
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.container1 {
+    padding: 0;
+    color: white;
+    background-color: black;
+}
+.container1 h2 {
+    margin-top: 0;
+    padding-top: 2%;
+}
+.container2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.container2 img {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 300px;
+    align-items: flex-start;
+}
+.container2 p {
+    display: flex;
+    align-items: flex-start;
+}
+.container3 img {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 300px;
+    align-items: flex-start;
+}
+.container4 img {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 300px;
+    align-items: flex-start;
+}
+.container2  h2{
+    display: flex;
+    align-items: flex-start;
+}
+.section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 350px;
+}
+.section1 img{
+    margin-top: 40px;
+}
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 350px;
+}
+.section3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 350px;
+}
+.section3 p{
+    margin-bottom: 40px;
+}
+.section4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.section4 p{
+    margin-bottom: 40px;
+}
+.section5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.section5 p{
+    margin-bottom: 45px;
+}
+.section6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.section7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.section7 p{
+    margin-bottom: 45px;
+}
+.section8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.section9 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 350px;
+}
+.container3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-top: 60px;
+}
+.container4 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+ins {
+    color: red;
+}
+.container1 i {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    
+}
+.container1 i:hover {
+    transition-timing-function: linear;
+    transition: linear 1.25s;
+    color: #0d08a0;
+}
+.fa-solid {
+    padding: 15px;
+    text-align: center;
+}
+@media (max-width:769px) {
+    * {
+        font-family: "Indie Flower";
+    }
+    body {
+        width: 100%;
+        margin-right: 0%;
+        margin: 0 auto;
+    }
+    .pattern {
+        background-image: url("slike/pattern1.png");
+        width: 1490px;
+        position: absolute;
+        top: 0%;
+    }
+    .linkovi a {
+        color: black;
+        text-decoration: none;
+    }
+    .zaglavlje ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        margin-left: -503px;
+    }
+    li {
+        width: 15%;
+    }
+    .naslov {
+        clear: both;
+        font-size: 200%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        margin-top: 120%;
+        padding: 0.01%;
+    }
+    .logo {
+        float: left;
+        padding: 2%;
+    }
+    .zaglavlje {
+        width: 45%;
+        float: right;
+        margin-top: 7%;
+        margin-right: 2%;
+    }
+    .linkovi {
+        clear: both;
+        margin-top: 10%;
+        font-size: larger;
+        margin-left: -235px;
+    }
+    .sup {
+        font-size: 50%;
+    }
+    .slika1 {
+        width: 47%;
+        float: left;
+    }
+    .opis {
+        width: 65%;
+        color: grey;
+    }
+    .tko {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        width: 44%;
+        background-color: black;
+        font-size: large;
+        float: right;
+        padding: 3% 4% 3% 5%;
+        margin-bottom: 5%;
+    }
+    .footer1 {
+        position: absolute;
+        width: 1490px;
+        top: 5210px;
+        height: 10%;
+        bottom: 0px;
+        background-image: url("slike/pattern1.png");
+    }
+    .footer2 {
+        position: absolute;
+        width: 1490px;
+        top: 2300px;
+        margin: 0 auto;
+        height: 10%;
+        bottom: 0px;
+        background-image: url("slike/pattern1.png");
+    }
+    .podnozje {
+        position: absolute;
+        width: 100%;
+        bottom: 0px;
+        text-align: center;
+        background-image: url("slike/pattern1.png");
+    }
+    .arrow {
+        float: left;
+        margin-bottom: 12%;
+        margin-left: 2%;
+    }
+    .hh {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        width: 44%;
+        background-color: black;
+        font-size: large;
+        float: left;
+        padding: 3% 4% 3% 5%;
+        margin-bottom: 5%;
+    }
+    .slika2 {
+        width: 47%;
+        height: 40%;
+        float: right;
+    }
+    .slika3 {
+        clear: both;
+        width: 47%;
+        float: left;
+    }
+    .freestyle {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        width: 44%;
+        background-color: black;
+        font-size: large;
+        float: right;
+        padding: 3% 4% 3% 5%;
+        margin-bottom: 5%;
+    }
+    .dhall {
+        clear: both;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        width: 44%;
+        background-color: black;
+        font-size: large;
+        float: left;
+        padding: 3% 4% 3% 5%;
+        margin-bottom: 5%;
+    }
+    .slika4 {
+        width: 47%;
+        float: left;
+    }
+    .slika5 {
+        width: 47%;
+        float: right;
+        margin-bottom: 7%;
+    }
+    .house {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+        width: 44%;
+        background-color: black;
+        font-size: large;
+        float: right;
+        padding: 3% 4% 3% 5%;
+        margin-bottom: 5%;
+    }
+    .arrow1 {
+        float: right;
+    }
+    .link {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        float: left;
+        text-decoration: none;
+        font-size: xx-large;
+        color: rgb(46, 125, 154);
+    }
+    .zaglavlje a:hover {
+        color: black;
+    }
+    a:active {
+        color: black;
+    }
+    .link1 {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        float: left;
+        margin-left: 8%;
+        text-decoration: none;
+        font-size: xx-large;
+        color: rgb(46, 125, 154);
+    }
+    button {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        color: rgb(46, 125, 154);
+        background-color: black;
+        border: none;
+        padding: 6% 8%;
+        float: right;
+        border-radius: 100px;
+   
+    }
+    table {
+        border: 1px solid rgb(46, 125, 154);
+        margin-left: auto;
+        margin-right: auto;
+        background-image: url("slike/pattern1.png");
+    }
+    caption {
+        color: rgb(46, 125, 154);
+    }
+    .red1 {
+        text-align: center;
+        font-size: larger;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(83, 203, 191);
+        font-weight: bold;
+    }
+    .submit {
+        float: right;
+        margin-right: 3%;
+    }
+    .tabletext {
+        margin-left: 3%;
+    }
+    .obrazac1 {
+        margin-top: 120%;
+    }
+    p {
+        font-size: large;
+    }
+    .obrazac {
+        margin: auto;
+        font-size: x-large;
+        margin-left: 5%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .form2 {
+        font-size: larger;
+        margin-top: 1%;
+        background-color: gainsboro;
+        width: 20%;
+    }
+    .select {
+        font-size: large;
+        padding: 1%;
+    }
+    .posalji {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: large;
+        background-color: rgb(46, 125, 154);
+        color: white;
+        border: none;
+        padding: 1% 3%;
+        float: left;
+        margin-bottom: 5%;
+    }
+    .kontakt {
+        width: 290px;
+        font-size: x-large;
+        position: relative;
+        bottom: 895px;
+        left: 1000px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .ab{
+        position: relative;
+        right: 135px;
+    }
+    .mejl {
+        color: rgb(46, 125, 154);
+    }
+    .anis {
+        position: absolute;
+        left: 30px;
+    }
+    .jelchi {
+        left: 565px;
+        position: absolute;
+    }
+    .luka {
+        left: 1090px;
+        position: absolute;
+    }
+    .treneri {
+        position: absolute;
+        width: 1000px;
+        top: 750px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .onama {
+        font-size: 50px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        top: 520px;
+        left: 545px;
+    }
+    .trener1 {
+        width: 400px;
+        position: absolute;
+        left: 30px;
+        top: 380px;
+    }
+    .trener2 {
+        width: 400px;
+        position: absolute;
+        left: 565px;
+        top: 380px;
+    }
+    .trener3 {
+        width: 400px;
+        position: absolute;
+        left: 1090px;
+        top: 380px;
+    }
+    nav {
+        position: fixed;
+        width: 300px;
+        top: 340px;
+        color: rgb(46, 125, 154);
+        background-color: black;
+    }
+    .container {
+        margin-top: 80%;
+    }
+    .container img {
+        padding-bottom: 20%;
+    }
+    .container h1 {
+        padding-bottom: 5%;
+        color: rgb(39, 168, 125);
+    }
+    .float {
+        float: right;
+        font-size: large;
+        padding-bottom: 10%;
+    }
+}
